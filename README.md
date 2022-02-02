@@ -1,6 +1,6 @@
 ### Olá, eu sou a Vitória 👋
 
-- Desenvolvedora Front End :man_technologist:
+- Developer Front End :man_technologist:
 - Estudante de Tecnologias Da Informação e Comunicação :green_book:
 
 <div align="center">
