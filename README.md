@@ -1,7 +1,7 @@
-### Olá, eu sou a Vitória 👋
+### Hi, I'm Victoria 👋
 
-- Developer Front End :man_technologist:
-- Estudante de Tecnologias Da Informação e Comunicação :green_book:
+- Front end developer :man_technologist:
+- Student of Information and Communication Technologies :green_book:
 
 <div align="center">
   <a href="https://github.com/vitoriarx">
@@ -13,6 +13,10 @@
   <img align="center" alt="Vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitoria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vitoria-React" height=30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vitoria-git" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Vitoria-github" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Vitoria-visualstudio" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
  </div>
   
   ##
