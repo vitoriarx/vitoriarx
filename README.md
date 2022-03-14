@@ -1,7 +1,7 @@
-### Hi, I'm Victoria 👋
+### Olá, eu sou a Vitória👋
 
-- Front end developer :man_technologist:
-- Student of Information and Communication Technologies :green_book:
+- Desenvolvedora Front End :man_technologist:
+- Estudante de Tecnologias da Informação e Comunicação :green_book:
 
 <div align="center">
   <a href="https://github.com/vitoriarx">
