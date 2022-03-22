@@ -1,7 +1,6 @@
 ### Olá, eu sou a Vitória👋
 
 - Desenvolvedora Front End :man_technologist:
-- Estudante de Tecnologias da Informação e Comunicação :green_book:
 
 <div align="center">
   <a href="https://github.com/vitoriarx">
