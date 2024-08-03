@@ -1,6 +1,6 @@
 ### Olá, eu sou a Vitória👋
 
-- Desenvolvedora Front End :man_technologist:
+- Analista de qualidade de software :man_technologist:
 
 <div align="center">
   <a href="https://github.com/vitoriarx">
