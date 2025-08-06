@@ -12,7 +12,7 @@ Desde então, me aprofundei em testes manuais, automação com Cypress, testes d
 
 > "QA não é sobre encontrar erros. É sobre garantir que a experiência do usuário seja respeitada em cada clique, em cada fluxo, em cada entrega."
 
-Sou obcecada por detalhes, colaborativa por natureza e rápida para aprender. Já documentei mais de 30 bugs em projetos reais, participei de times ágeis remotos e criei planos de teste com foco em valor e rastreabilidade.
+Sou obcecada por detalhes, colaborativa por natureza e rápida para aprender. Já documentei muitos bugs em projetos reais, participei de times ágeis remotos e criei planos de teste com foco em valor e rastreabilidade.
 
 Estou me preparando para ser uma QA completa — técnica, comunicativa e estratégica.
 
