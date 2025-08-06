@@ -29,34 +29,34 @@ Estou me preparando para ser uma QA completa — técnica, comunicativa e estrat
 
 ## Projetos em andamento
  
-- 🔹 **Automação com Cypress:** fluxo de login, integração com Xray e boas práticas de escrita de testes automatizados.  
-- 🔹 **Estudo contínuo e repositórios práticos:** aprendizados aplicados com clareza, documentação e foco em valor.
+-  **Automação com Cypress:** fluxo de login, integração com Xray e boas práticas de escrita de testes automatizados.  
+-  **Estudo contínuo e repositórios práticos:** aprendizados aplicados com clareza, documentação e foco em valor.
 
 > Estou documentando tudo aqui no GitHub com foco em clareza, rastreabilidade e aprendizado contínuo. Em breve, novos repositórios com testes reais, relatórios e estratégias aplicadas.
 
 ---
 
-## 📚 Certificações
+##  Certificações
 
-- ✅ **RESTful API Testing with Postman** – Udemy  
-- ✅ **Testes de Software (Manual e Automação)** – Udemy  
-- ✅ **Gestão Ágil com Scrum e Kanban** – Udemy  
-
----
-
-## 💡 Sobre mim
-
-- 🚀 Em busca de uma vaga como QA (e pronta para contribuir desde a primeira sprint)  
-- 🤝 Comunicação clara com devs, produto e usuários  
-- 🧠 Mentalidade de melhoria contínua: aprender, aplicar, melhorar  
-- 🔍 Comprometida com testes que **criam confiança no produto e evitam prejuízos reais**  
+- **RESTful API Testing with Postman** – Udemy  
+- **Testes de Software (Manual e Automação)** – Udemy  
+- **Gestão Ágil com Scrum e Kanban** – Udemy  
 
 ---
 
-## 📬 Vamos conversar?
+## Sobre mim
+
+- Em busca de uma vaga como QA (e pronta para contribuir desde a primeira sprint)  
+- Comunicação clara com devs, produto e usuários  
+- Mentalidade de melhoria contínua: aprender, aplicar, melhorar  
+- Comprometida com testes que **criam confiança no produto e evitam prejuízos reais**  
+
+---
+
+## Vamos conversar?
 
 - [LinkedIn](https://www.linkedin.com/in/vitoria-regina-melo)  
-- ✉️ vitoriasantos78690@gmail.com  
+- ✉vitoriasantos78690@gmail.com  
 
 ---
 
