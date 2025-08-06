@@ -56,7 +56,7 @@ Estou me preparando para ser uma QA completa — técnica, comunicativa e estrat
 ## Vamos conversar?
 
 - [LinkedIn](https://www.linkedin.com/in/vitoria-regina-melo)  
-- ✉vitoriasantos78690@gmail.com  
+- vitoriasantos78690@gmail.com  
 
 ---
 
