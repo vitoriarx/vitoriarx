@@ -29,8 +29,8 @@ Estou me preparando para ser uma QA completa — técnica, comunicativa e estrat
 
 ## Projetos em andamento
  
--  **Automação com Cypress:** fluxo de login, integração com Xray e boas práticas de escrita de testes automatizados.  
--  **Estudo contínuo e repositórios práticos:** aprendizados aplicados com clareza, documentação e foco em valor.
+-  **Automação com Cypress:** https://github.com/vitoriarx/Automacao-loja-web-ebac-Cypress
+-  **Automação de API com Cypress:** https://github.com/vitoriarx/Cypress-teste-API 
 
 > Estou documentando tudo aqui no GitHub com foco em clareza, rastreabilidade e aprendizado contínuo. Em breve, novos repositórios com testes reais, relatórios e estratégias aplicadas.
 
