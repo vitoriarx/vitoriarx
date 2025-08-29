@@ -102,5 +102,4 @@ O que me move é **prevenir falhas antes que o usuário final perceba** e transf
 
 📩 Contato:  
 - [LinkedIn](https://linkedin.com/in/vitoria-regina-melo)  
-- [GitHub](https://github.com/vitoriarx)  
 - vitoriasantos78690@gmail.com  
