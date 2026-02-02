@@ -1,21 +1,6 @@
-# 👋 Olá
+# Olá
 
 Sou a **Vitoria Melo**, Analista de Qualidade de Software e acadêmica em Sistemas de Informação (Instituto Federal de Alagoas).    
-
----
-
-## O que me diferencia
-
-Não sou apenas alguém que executa testes.  
-Meu papel é **proteger o negócio contra falhas críticas**, garantir que cada entrega gere valor real e que a empresa avance com segurança e velocidade.
-
-- **Prevenção de riscos**: identifico e documento bugs críticos que, se chegassem ao cliente, poderiam gerar perda de confiança, retrabalho e custos elevados.  
-- **Velocidade com qualidade**: experiência prática em **Web, API e Mobile Testing**, unindo testes manuais e automação para acelerar entregas sem abrir mão da confiabilidade.  
-- **Integração com o negócio**: participo de **cerimônias ágeis**, traduzo requisitos de negócio em cenários de teste e asseguro que a visão estratégica se reflita no produto.  
-- **Cultura de qualidade**: implemento projeto com **CI/CD no GitHub Actions**, simulando pipelines reais que trazem previsibilidade e transparência às entregas.  
-- **Foco estratégico**: vejo testes não como custo, mas como **investimento que evita prejuízos e fortalece a confiança do usuário final**.  
-
-> Para mim, **qualidade é diferencial competitivo**: reduz riscos, protege a reputação e garante que a empresa entregue inovação sem comprometer a confiança do cliente.
 
 ---
 
