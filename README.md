@@ -18,11 +18,6 @@ Sou a **Vitoria Melo**, Analista de Qualidade de Software e acadêmica em Sistem
 - Apoio direto na melhoria do **processo de QA**.  
 - Contato com stakeholders e refinamento de requisitos.  
 
-**Trainee QA – DIT (Híbrido)**  
-*Jan/2023 – Mar/2023*  
-- Foco em **testes de API com Postman**, validando integrações críticas.  
-- Produção de **documentação técnica** para onboarding de novos colaboradores.  
-
 ---
 
 ## Projetos em Destaque  
